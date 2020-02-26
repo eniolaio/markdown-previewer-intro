@@ -4,7 +4,7 @@ Yes you! We are glad you've chosen to use our "non-white label" markdown preview
 
 And remember...
 
-![Sleep Code Eat Repeat](https://i.postimg.cc/pTrLF27M/eat-sleep-code-repeat-cropped-small.jpg)
+![Eat Sleep Code Repeat](https://i.postimg.cc/pTrLF27M/eat-sleep-code-repeat-cropped-small.jpg)
 
 Happy Hacking 😉
 
