@@ -8,7 +8,6 @@ And remember...
 
 Happy Hacking 😉
 
-
 ## Markdown Examples
 
 A [link](https://en.wikipedia.org/wiki/Markdown) to a Wikipedia article about Markdown.
@@ -32,8 +31,6 @@ An ordered list:
 3.  Three
 4.  Four
 5.  Five
-
-
 
 A blockquote:
 
