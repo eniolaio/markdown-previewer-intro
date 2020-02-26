@@ -1,6 +1,6 @@
 # Hello There! 👋
 
-Yes you! We are glad you've chosen to use our "non-white label" markdown previewer. Simply type in some text or GitHub Flavored Markdown (GFM) in this editor to view the live updates on the right.
+Yes you! We are glad you've chosen to use our "non-white label" markdown previewer. Simply type in some text or GitHub Flavored Markdown (GFM) in the editor on the left to view the live updates on the right.
 
 And remember...
 
